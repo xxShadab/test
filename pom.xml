@@ -4,6 +4,7 @@
 
     <groupId>com.mycompany</groupId>
     <artifactId>testing</artifactId>
+    <version>1.0</version>
     <packaging>war</packaging>
 
     <name>Test</name>
